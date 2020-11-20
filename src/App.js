@@ -1,12 +1,11 @@
 import React from 'react'
 import './App.css';
+import InteractiveImage from './components/InteractiveImage'
 
 function App() {
   return (
-    <div className="App">
-      ???
-    </div>
-  );
+    <InteractiveImage/>
+  )
 }
 
 export default App;
